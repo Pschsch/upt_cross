@@ -1,0 +1,3 @@
+export 'package:uptaxi_all_cross_platform/splash_screen/splash_screen_bloc/SplashScreenBloc.dart';
+export 'package:uptaxi_all_cross_platform/splash_screen/splash_screen_bloc/SplashScreenEvent.dart';
+export 'package:uptaxi_all_cross_platform/splash_screen/splash_screen_bloc/SplashScreenState.dart';
